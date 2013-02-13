@@ -1,0 +1,1 @@
+The project was [renamed](https://github.com/spatzle/butter)
